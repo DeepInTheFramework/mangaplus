@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3c8a976.css",
+    "main.css": "/static/css/main.5693a3a5.css",
     "main.js": "/static/js/main.5f8f1100.js",
     "static/js/453.fb109799.chunk.js": "/static/js/453.fb109799.chunk.js",
     "static/media/a4.jpg": "/static/media/a4.40ee5d2d25a849327b86.jpg",
@@ -24,6 +24,7 @@
     "static/media/akabane.jpg": "/static/media/akabane.8ebf8773452e30e869d4.jpg",
     "static/media/bloomingLove.jpg": "/static/media/bloomingLove.3220c9288595a12cc1b6.jpg",
     "static/media/tokyoUnderworld.jpg": "/static/media/tokyoUnderworld.be0a73ea9b5813169a22.jpg",
+    "static/media/header_for_animation.png": "/static/media/header_for_animation.7865bfe62655c22b8412.png",
     "static/media/chainsawMan.jpg": "/static/media/chainsawMan.aee9e448f4356d628cba.jpg",
     "static/media/vampire.jpg": "/static/media/vampire.8abbb60ebf159c12e68a.jpg",
     "static/media/logo.png": "/static/media/logo.628618bd9363a36cad9b.png",
@@ -46,12 +47,12 @@
     "static/media/eyes.svg": "/static/media/eyes.4ca8a5224daa73a95f33aae45777879f.svg",
     "static/media/flamme.svg": "/static/media/flamme.63b856b818947b65026d2da8ca497578.svg",
     "static/media/facebookLogo.svg": "/static/media/facebookLogo.dcbf4ed1ed07b9362fde.svg",
-    "main.d3c8a976.css.map": "/static/css/main.d3c8a976.css.map",
+    "main.5693a3a5.css.map": "/static/css/main.5693a3a5.css.map",
     "main.5f8f1100.js.map": "/static/js/main.5f8f1100.js.map",
     "453.fb109799.chunk.js.map": "/static/js/453.fb109799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3c8a976.css",
+    "static/css/main.5693a3a5.css",
     "static/js/main.5f8f1100.js"
   ]
 }
