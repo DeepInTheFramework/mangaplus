@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4471dd7a.css",
-    "main.js": "/static/js/main.c5bc5bb0.js",
+    "main.css": "/static/css/main.d3c8a976.css",
+    "main.js": "/static/js/main.5f8f1100.js",
     "static/js/453.fb109799.chunk.js": "/static/js/453.fb109799.chunk.js",
     "static/media/a4.jpg": "/static/media/a4.40ee5d2d25a849327b86.jpg",
     "static/media/a3.jpg": "/static/media/a3.72947df8965afd5ab59a.jpg",
@@ -40,15 +40,18 @@
     "static/media/choujinX.jpg": "/static/media/choujinX.bf03266436e4bb7a951a.jpg",
     "static/media/iconLuffy.png": "/static/media/iconLuffy.19b54f1bbee65d8ca0d4.png",
     "static/media/appleStore.svg": "/static/media/appleStore.8c4986ee4828b47d16f5cd694ef065f2.svg",
+    "static/media/twitterLogo.svg": "/static/media/twitterLogo.cc56a29e5f8f6a05b37d.svg",
     "index.html": "/index.html",
+    "static/media/discordLogo.svg": "/static/media/discordLogo.39452b790a076389ceae.svg",
     "static/media/eyes.svg": "/static/media/eyes.4ca8a5224daa73a95f33aae45777879f.svg",
     "static/media/flamme.svg": "/static/media/flamme.63b856b818947b65026d2da8ca497578.svg",
-    "main.4471dd7a.css.map": "/static/css/main.4471dd7a.css.map",
-    "main.c5bc5bb0.js.map": "/static/js/main.c5bc5bb0.js.map",
+    "static/media/facebookLogo.svg": "/static/media/facebookLogo.dcbf4ed1ed07b9362fde.svg",
+    "main.d3c8a976.css.map": "/static/css/main.d3c8a976.css.map",
+    "main.5f8f1100.js.map": "/static/js/main.5f8f1100.js.map",
     "453.fb109799.chunk.js.map": "/static/js/453.fb109799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4471dd7a.css",
-    "static/js/main.c5bc5bb0.js"
+    "static/css/main.d3c8a976.css",
+    "static/js/main.5f8f1100.js"
   ]
 }
