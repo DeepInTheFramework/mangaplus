@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.626c1e0c.css",
-    "main.js": "/static/js/main.5c51cbf3.js",
-    "static/js/453.013fc8f7.chunk.js": "/static/js/453.013fc8f7.chunk.js",
+    "main.css": "/static/css/main.4be0f733.css",
+    "main.js": "/static/js/main.92e9f292.js",
+    "static/js/453.fb109799.chunk.js": "/static/js/453.fb109799.chunk.js",
     "static/media/a4.jpg": "/static/media/a4.40ee5d2d25a849327b86.jpg",
     "static/media/a3.jpg": "/static/media/a3.72947df8965afd5ab59a.jpg",
     "static/media/a2.jpg": "/static/media/a2.fae2a71ca4f873967892.jpg",
@@ -24,6 +24,7 @@
     "static/media/akabane.jpg": "/static/media/akabane.8ebf8773452e30e869d4.jpg",
     "static/media/bloomingLove.jpg": "/static/media/bloomingLove.3220c9288595a12cc1b6.jpg",
     "static/media/tokyoUnderworld.jpg": "/static/media/tokyoUnderworld.be0a73ea9b5813169a22.jpg",
+    "static/media/iconLuffy.png": "/static/media/iconLuffy.5ea3f5acc806d9709cb1.png",
     "static/media/header_for_animation.png": "/static/media/header_for_animation.7865bfe62655c22b8412.png",
     "static/media/chainsawMan.jpg": "/static/media/chainsawMan.aee9e448f4356d628cba.jpg",
     "static/media/vampire.jpg": "/static/media/vampire.8abbb60ebf159c12e68a.jpg",
@@ -39,7 +40,7 @@
     "static/media/astro.jpg": "/static/media/astro.3a1c29363d248a7af2ab.jpg",
     "static/media/summer.jpg": "/static/media/summer.6d23eb4658d0b63de669.jpg",
     "static/media/choujinX.jpg": "/static/media/choujinX.bf03266436e4bb7a951a.jpg",
-    "static/media/iconLuffy.png": "/static/media/iconLuffy.19b54f1bbee65d8ca0d4.png",
+    "static/media/githubLogo.png": "/static/media/githubLogo.86e67c6840f7592c1a86.png",
     "static/media/appleStore.svg": "/static/media/appleStore.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "static/media/twitterLogo.svg": "/static/media/twitterLogo.cc56a29e5f8f6a05b37d.svg",
     "static/media/searchIcon.svg": "/static/media/searchIcon.411b4a607e665526b428880d69c29f1d.svg",
@@ -48,12 +49,12 @@
     "static/media/eyes.svg": "/static/media/eyes.4ca8a5224daa73a95f33aae45777879f.svg",
     "static/media/flamme.svg": "/static/media/flamme.63b856b818947b65026d2da8ca497578.svg",
     "static/media/facebookLogo.svg": "/static/media/facebookLogo.dcbf4ed1ed07b9362fde.svg",
-    "main.626c1e0c.css.map": "/static/css/main.626c1e0c.css.map",
-    "main.5c51cbf3.js.map": "/static/js/main.5c51cbf3.js.map",
-    "453.013fc8f7.chunk.js.map": "/static/js/453.013fc8f7.chunk.js.map"
+    "main.4be0f733.css.map": "/static/css/main.4be0f733.css.map",
+    "main.92e9f292.js.map": "/static/js/main.92e9f292.js.map",
+    "453.fb109799.chunk.js.map": "/static/js/453.fb109799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.626c1e0c.css",
-    "static/js/main.5c51cbf3.js"
+    "static/css/main.4be0f733.css",
+    "static/js/main.92e9f292.js"
   ]
 }
